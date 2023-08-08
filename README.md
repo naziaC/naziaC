@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?height=55&multiline=true&lines=Software+Engineering+Student;at+McGill+University)](https://git.io/typing-svg) 
 
 ## 📚 Projects
-Check my pinned projects or [here](https://github.com/naziaC/Portfolio)!
+Check my pinned projects or click [here](https://github.com/naziaC/Portfolio)!
 
 ## 🛠️ Tools
 
