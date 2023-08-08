@@ -13,7 +13,7 @@ Check my pinned projects or click [here](https://github.com/naziaC/Portfolio)!
 
 
 ## 👋🏻 Connect with Me
-[Linkedin](https://www.linkedin.com/in/naziachowdhury/)
+[LinkedIn](https://www.linkedin.com/in/naziachowdhury/)
 
 
 ## Have some fun while you're here!
