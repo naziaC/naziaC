@@ -7,9 +7,9 @@ Check my pinned projects or click [here](https://github.com/naziaC/Portfolio)!
 
 ## 🛠️ Tools
 
-**Technical languages:**  Java, C, JavaScript, SQL
+**Technical languages:**  Java, C, Python, JavaScript, SQL
 
-**Frameworks/Tools:** NETCONF/Yang, React.js, Vue.js
+**Frameworks/Tools:** Spring boot, NETCONF/Yang, React.js, Vue.js
 
 
 ## 👋🏻 Connect with Me
